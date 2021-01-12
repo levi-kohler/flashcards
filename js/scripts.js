@@ -1,11 +1,11 @@
 $(document).ready(function() {
-  $(".clickable").click(function() {
-    $("#show-js").toggle();
+  $("#js").click(function() {
+    $("#js-definition").toggle();
     $("#hide-js").toggle();
   });
-  
-  $(".clickable").click(function() {
-    $("#show-operator").toggle();
+
+  $("#operator").click(function() {
+    $("#operator-definition").toggle();
     $("#hide-operator").toggle();
   });
 });
