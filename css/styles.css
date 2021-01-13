@@ -34,6 +34,46 @@
   display: none;
 }
 
+#chaining-definition {
+  display: none;
+}
+
+#string-definition {
+  display: none;
+}
+
+#boolean-definition {
+  display: none;
+}
+
+#undefined-definition {
+  display: none;
+}
+
+#nan-definition {
+  display: none;
+}
+
+#null-definition {
+  display: none;
+}
+
+#alert-definition {
+  display: none;
+}
+
+#comment-definition {
+  display: none;
+}
+
+#jquery-definition {
+  display: none;
+}
+
+#attribute-definition {
+  display: none;
+}
+
 .clickable {
   cursor: pointer;
   color: #0088cc;
