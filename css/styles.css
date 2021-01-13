@@ -10,6 +10,14 @@
     display: none;
 }
 
+#variable-nc-definition {
+  display: none;
+}
+
+#function-definition {
+  display: none;
+}
+
 .clickable {
   cursor: pointer;
   color: #0088cc;
