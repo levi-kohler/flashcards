@@ -6,6 +6,10 @@
   display: none;
 }
 
+  #variable-definition {
+    display: none;
+}
+
 .clickable {
   cursor: pointer;
   color: #0088cc;
