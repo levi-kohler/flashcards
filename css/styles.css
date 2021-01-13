@@ -18,6 +18,22 @@
   display: none;
 }
 
+#method-definition {
+  display: none;
+}
+
+#argument-definition {
+  display: none;
+}
+
+#parameter-definition {
+  display: none;
+}
+
+#return-definition {
+  display: none;
+}
+
 .clickable {
   cursor: pointer;
   color: #0088cc;
